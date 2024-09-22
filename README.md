@@ -1,6 +1,6 @@
 ## Hellou Hellou 👋
 
-<img width="35%" align="right" alt="Github" src="[https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif](https://phsldev.eu.org/logo.png)" />
+<img width="35%" align="right" alt="Github" src="https://github.com/phsl-ofc/phsl-ofc/blob/main/profile.png" />
 
 Back-End Developer and Unethical Invader.
 
